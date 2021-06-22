@@ -7,3 +7,5 @@ datatypes
 loops
 
 done with doc
+
+thankyou
