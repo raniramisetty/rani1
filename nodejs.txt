@@ -2,3 +2,8 @@ welcome to the node js
 
 express
 http
+
+datatypes
+loops
+
+done with doc
